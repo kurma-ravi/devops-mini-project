@@ -8,6 +8,7 @@
   
  <h1><font color='GREEN'>AUTOMATION COMPLETE</font></h1>
   <h1><font color='GREEN'>TJENKINS AUTOMATIC BUILD</font></h1>
+  <h1><font color='GREEN'>BUILD FROM RELEASE BRANCH</font></h1>
   
 </center>
 </html>
